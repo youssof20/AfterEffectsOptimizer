@@ -32,4 +32,3 @@ This Python script is designed to optimize Adobe After Effects' performance on W
 
 
 git clone https://github.com/youssof20/AfterEffectsOptimizer.git
-cd ae-optimization-script
