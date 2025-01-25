@@ -31,5 +31,5 @@ This Python script is designed to optimize Adobe After Effects' performance on W
    pip install psutil
 
 
-git clone https://github.com/your-username/ae-optimization-script.git
+git clone https://github.com/youssof20/AfterEffectsOptimizer.git
 cd ae-optimization-script
